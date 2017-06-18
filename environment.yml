@@ -15,10 +15,16 @@ dependencies:
 - zlib=1.2.8=3
 - pip:
   - appnope==0.1.0
+  - bkcharts==0.2
   - bleach==2.0.0
+  - bokeh==0.12.6
+  - certifi==2017.4.17
+  - chardet==3.0.4
+  - cycler==0.10.0
   - decorator==4.0.11
   - entrypoints==0.2.3
   - html5lib==0.999999999
+  - idna==2.5
   - ipykernel==4.6.1
   - ipython==6.1.0
   - ipython-genutils==0.2.0
@@ -31,6 +37,7 @@ dependencies:
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
   - markupsafe==1.0
+  - matplotlib==2.0.2
   - mistune==0.7.4
   - nbconvert==5.2.1
   - nbformat==4.3.0
@@ -42,16 +49,20 @@ dependencies:
   - prompt-toolkit==1.0.14
   - ptyprocess==0.5.1
   - pygments==2.2.0
+  - pyparsing==2.2.0
   - python-dateutil==2.6.0
   - pytz==2017.2
+  - pyyaml==3.12
   - pyzmq==16.0.2
   - qtconsole==4.3.0
+  - requests==2.18.1
   - simplegeneric==0.8.1
   - six==1.10.0
   - terminado==0.6
   - testpath==0.3.1
   - tornado==4.5.1
   - traitlets==4.3.2
+  - urllib3==1.21.1
   - wcwidth==0.1.7
   - webencodings==0.5.1
   - widgetsnbextension==2.0.0
