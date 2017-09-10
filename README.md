@@ -13,7 +13,8 @@ I use [conda](https://conda.io/docs/index.html) to manage my python environment.
 ```
 conda env create -f environment.yml
 ```
-This will create a conda environment named ```pm_env```, which you can activate using ...
+This will create a conda environment named ```pmc_env```, which you can activate using ...
+
 ```
-source activate pm_env
+source activate pmc_env
 ```
